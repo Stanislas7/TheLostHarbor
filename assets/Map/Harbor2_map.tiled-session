@@ -1,0 +1,120 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Labyrinthe_map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/0x72_16x16DungeonTileset.v5.tsx": {
+            "scaleInDock": 2
+        },
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/Water+.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle forest v01.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle forest vLucas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle tree wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/stairsamples.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Harbor2_map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 189.33333333333331,
+                "y": 1456.3333333333333
+            }
+        },
+        "Labyrinthe_map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 865.3333333333333,
+                "y": 792.6666666666667
+            }
+        },
+        "Labyrinthe_map.tmx#home4": {
+            "scaleInDock": 1
+        },
+        "Labyrinthe_map.tmx#portal": {
+            "scaleInDock": 1
+        },
+        "Labyrinthe_map.tmx#treasure": {
+            "scaleInDock": 1
+        },
+        "Village_map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1718.6666666666665,
+                "y": 1359.3333333333333
+            }
+        },
+        "Village_map.tmx#Water+": {
+            "scaleInDock": 1
+        },
+        "Village_map.tmx#gentle tree wall": {
+            "scaleInDock": 1
+        },
+        "Village_map.tmx#home1": {
+            "scaleInDock": 1
+        },
+        "Village_map.tmx#home2": {
+            "scaleInDock": 1
+        },
+        "Village_map.tmx#home3": {
+            "scaleInDock": 1
+        },
+        "Village_map.tmx#stairsamples": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/19.07a Gentle Forest 3.0/tree wall",
+    "map.height": 125,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 125,
+    "openFiles": [
+        "Harbor2_map.tmx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/stairsamples.tsx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle forest v01.tsx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/Water+.tsx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle forest vLucas.tsx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle tree wall.tsx",
+        "Village_map.tmx",
+        "Labyrinthe_map.tmx"
+    ],
+    "project": "Harbor2_map.tiled-project",
+    "recentFiles": [
+        "Harbor2_map.tmx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/stairsamples.tsx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle forest v01.tsx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/Water+.tsx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle forest vLucas.tsx",
+        "C:/Users/lucas/Downloads/TLH-master/TLH-master/assets/Tilesets/gentle tree wall.tsx",
+        "Village_map.tmx",
+        "Labyrinthe_map.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": true
+}

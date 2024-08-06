@@ -1,0 +1,4 @@
+SCREEN_WIDTH, SCREEN_HEIGHT = 1280, 720
+TITLE = "The Lost Harbor"
+ICON_PATH = 'media/logo/logo.jpg'
+PLAYER_SPEED = 200
